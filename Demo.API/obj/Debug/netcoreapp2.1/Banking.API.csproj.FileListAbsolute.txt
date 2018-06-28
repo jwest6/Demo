@@ -1,0 +1,17 @@
+C:\Jeff\Banking.API\Banking.API\obj\Debug\netcoreapp2.1\Banking.API.csproj.CoreCompileInputs.cache
+C:\Jeff\Banking.API\Banking.API\obj\Debug\netcoreapp2.1\Banking.API.RazorAssemblyInfo.cache
+C:\Jeff\Banking.API\Banking.API\obj\Debug\netcoreapp2.1\Banking.API.RazorAssemblyInfo.cs
+C:\Jeff\Banking.API\Banking.API\obj\Debug\netcoreapp2.1\Banking.API.AssemblyInfoInputs.cache
+C:\Jeff\Banking.API\Banking.API\obj\Debug\netcoreapp2.1\Banking.API.AssemblyInfo.cs
+C:\Jeff\Banking.API\Banking.API\bin\Debug\netcoreapp2.1\Banking.API.deps.json
+C:\Jeff\Banking.API\Banking.API\bin\Debug\netcoreapp2.1\Banking.API.runtimeconfig.json
+C:\Jeff\Banking.API\Banking.API\bin\Debug\netcoreapp2.1\Banking.API.runtimeconfig.dev.json
+C:\Jeff\Banking.API\Banking.API\bin\Debug\netcoreapp2.1\Banking.API.dll
+C:\Jeff\Banking.API\Banking.API\obj\Debug\netcoreapp2.1\Banking.API.RazorTargetAssemblyInfo.cache
+C:\Jeff\Banking.API\Banking.API\obj\Debug\netcoreapp2.1\Banking.API.csprojAssemblyReference.cache
+C:\Jeff\Banking.API\Banking.API\bin\Debug\netcoreapp2.1\Banking.API.pdb
+C:\Jeff\Banking.API\Banking.API\bin\Debug\netcoreapp2.1\Banking.DataAccess.dll
+C:\Jeff\Banking.API\Banking.API\bin\Debug\netcoreapp2.1\Banking.DataAccess.pdb
+C:\Jeff\Banking.API\Banking.API\obj\Debug\netcoreapp2.1\Banking.API.csproj.CopyComplete
+C:\Jeff\Banking.API\Banking.API\obj\Debug\netcoreapp2.1\Banking.API.dll
+C:\Jeff\Banking.API\Banking.API\obj\Debug\netcoreapp2.1\Banking.API.pdb
