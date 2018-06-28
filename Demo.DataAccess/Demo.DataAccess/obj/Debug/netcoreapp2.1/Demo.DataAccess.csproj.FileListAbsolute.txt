@@ -1,0 +1,10 @@
+C:\Jeff\Demo.DataAccess\Demo.DataAccess\bin\Debug\netcoreapp2.1\Demo.DataAccess.deps.json
+C:\Jeff\Demo.DataAccess\Demo.DataAccess\bin\Debug\netcoreapp2.1\Demo.DataAccess.runtimeconfig.json
+C:\Jeff\Demo.DataAccess\Demo.DataAccess\bin\Debug\netcoreapp2.1\Demo.DataAccess.runtimeconfig.dev.json
+C:\Jeff\Demo.DataAccess\Demo.DataAccess\bin\Debug\netcoreapp2.1\Demo.DataAccess.dll
+C:\Jeff\Demo.DataAccess\Demo.DataAccess\bin\Debug\netcoreapp2.1\Demo.DataAccess.pdb
+C:\Jeff\Demo.DataAccess\Demo.DataAccess\obj\Debug\netcoreapp2.1\Demo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Jeff\Demo.DataAccess\Demo.DataAccess\obj\Debug\netcoreapp2.1\Demo.DataAccess.AssemblyInfoInputs.cache
+C:\Jeff\Demo.DataAccess\Demo.DataAccess\obj\Debug\netcoreapp2.1\Demo.DataAccess.AssemblyInfo.cs
+C:\Jeff\Demo.DataAccess\Demo.DataAccess\obj\Debug\netcoreapp2.1\Demo.DataAccess.dll
+C:\Jeff\Demo.DataAccess\Demo.DataAccess\obj\Debug\netcoreapp2.1\Demo.DataAccess.pdb

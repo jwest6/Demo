@@ -1,0 +1,10 @@
+C:\Jeff\Banking.DataAccess\Banking.DataAccess\bin\Debug\netcoreapp2.1\Banking.DataAccess.deps.json
+C:\Jeff\Banking.DataAccess\Banking.DataAccess\bin\Debug\netcoreapp2.1\Banking.DataAccess.dll
+C:\Jeff\Banking.DataAccess\Banking.DataAccess\bin\Debug\netcoreapp2.1\Banking.DataAccess.pdb
+C:\Jeff\Banking.DataAccess\Banking.DataAccess\obj\Debug\netcoreapp2.1\Banking.DataAccess.csproj.CoreCompileInputs.cache
+C:\Jeff\Banking.DataAccess\Banking.DataAccess\obj\Debug\netcoreapp2.1\Banking.DataAccess.AssemblyInfoInputs.cache
+C:\Jeff\Banking.DataAccess\Banking.DataAccess\obj\Debug\netcoreapp2.1\Banking.DataAccess.AssemblyInfo.cs
+C:\Jeff\Banking.DataAccess\Banking.DataAccess\obj\Debug\netcoreapp2.1\Banking.DataAccess.dll
+C:\Jeff\Banking.DataAccess\Banking.DataAccess\obj\Debug\netcoreapp2.1\Banking.DataAccess.pdb
+C:\Jeff\Banking.DataAccess\Banking.DataAccess\bin\Debug\netcoreapp2.1\Banking.DataAccess.runtimeconfig.json
+C:\Jeff\Banking.DataAccess\Banking.DataAccess\bin\Debug\netcoreapp2.1\Banking.DataAccess.runtimeconfig.dev.json
