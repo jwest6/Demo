@@ -15,11 +15,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Demo.DataAccess\Demo.DataAccess\Demo.DataAccess.csproj" />
+    <None Include="wwwroot\index.html" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\index.html" />
+    <ProjectReference Include="..\Demo.DataAccess\Demo.DataAccess\Demo.DataAccess.csproj" />
   </ItemGroup>
 
 </Project>

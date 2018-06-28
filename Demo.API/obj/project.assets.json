@@ -11665,8 +11665,8 @@
     },
     "Demo.DataAccess/1.0.0": {
       "type": "project",
-      "path": "../../Demo.DataAccess/Demo.DataAccess/Demo.DataAccess.csproj",
-      "msbuildProject": "../../Demo.DataAccess/Demo.DataAccess/Demo.DataAccess.csproj"
+      "path": "../Demo.DataAccess/Demo.DataAccess/Demo.DataAccess.csproj",
+      "msbuildProject": "../Demo.DataAccess/Demo.DataAccess/Demo.DataAccess.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -11685,11 +11685,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Jeff\\Demo.API\\Demo.API\\Demo.API.csproj",
+      "projectUniqueName": "C:\\Jeff\\Projects\\Demo\\Demo.API\\Demo.API.csproj",
       "projectName": "Demo.API",
-      "projectPath": "C:\\Jeff\\Demo.API\\Demo.API\\Demo.API.csproj",
+      "projectPath": "C:\\Jeff\\Projects\\Demo\\Demo.API\\Demo.API.csproj",
       "packagesPath": "C:\\Users\\HeliosAdmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Jeff\\Demo.API\\Demo.API\\obj\\",
+      "outputPath": "C:\\Jeff\\Projects\\Demo\\Demo.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11708,8 +11708,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Jeff\\Demo.DataAccess\\Demo.DataAccess\\Demo.DataAccess.csproj": {
-              "projectPath": "C:\\Jeff\\Demo.DataAccess\\Demo.DataAccess\\Demo.DataAccess.csproj"
+            "C:\\Jeff\\Projects\\Demo\\Demo.DataAccess\\Demo.DataAccess\\Demo.DataAccess.csproj": {
+              "projectPath": "C:\\Jeff\\Projects\\Demo\\Demo.DataAccess\\Demo.DataAccess\\Demo.DataAccess.csproj"
             }
           }
         }

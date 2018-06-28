@@ -13470,8 +13470,8 @@
     },
     "Demo.DataAccess/1.0.0": {
       "type": "project",
-      "path": "../../Demo.DataAccess/Demo.DataAccess/Demo.DataAccess.csproj",
-      "msbuildProject": "../../Demo.DataAccess/Demo.DataAccess/Demo.DataAccess.csproj"
+      "path": "../Demo.DataAccess/Demo.DataAccess/Demo.DataAccess.csproj",
+      "msbuildProject": "../Demo.DataAccess/Demo.DataAccess/Demo.DataAccess.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -13494,11 +13494,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Jeff\\Demo.API\\DemoTest\\DemoTest.csproj",
+      "projectUniqueName": "C:\\Jeff\\Projects\\Demo\\DemoTest\\DemoTest.csproj",
       "projectName": "DemoTest",
-      "projectPath": "C:\\Jeff\\Demo.API\\DemoTest\\DemoTest.csproj",
+      "projectPath": "C:\\Jeff\\Projects\\Demo\\DemoTest\\DemoTest.csproj",
       "packagesPath": "C:\\Users\\HeliosAdmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Jeff\\Demo.API\\DemoTest\\obj\\",
+      "outputPath": "C:\\Jeff\\Projects\\Demo\\DemoTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13517,11 +13517,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Jeff\\Demo.API\\Demo.API\\Demo.API.csproj": {
-              "projectPath": "C:\\Jeff\\Demo.API\\Demo.API\\Demo.API.csproj"
+            "C:\\Jeff\\Projects\\Demo\\Demo.API\\Demo.API.csproj": {
+              "projectPath": "C:\\Jeff\\Projects\\Demo\\Demo.API\\Demo.API.csproj"
             },
-            "C:\\Jeff\\Demo.DataAccess\\Demo.DataAccess\\Demo.DataAccess.csproj": {
-              "projectPath": "C:\\Jeff\\Demo.DataAccess\\Demo.DataAccess\\Demo.DataAccess.csproj"
+            "C:\\Jeff\\Projects\\Demo\\Demo.DataAccess\\Demo.DataAccess\\Demo.DataAccess.csproj": {
+              "projectPath": "C:\\Jeff\\Projects\\Demo\\Demo.DataAccess\\Demo.DataAccess\\Demo.DataAccess.csproj"
             }
           }
         }

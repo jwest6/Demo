@@ -11664,11 +11664,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Jeff\\Demo.DataAccess\\Demo.DataAccess\\Demo.DataAccess.csproj",
+      "projectUniqueName": "C:\\Jeff\\Projects\\Demo\\Demo.DataAccess\\Demo.DataAccess\\Demo.DataAccess.csproj",
       "projectName": "Demo.DataAccess",
-      "projectPath": "C:\\Jeff\\Demo.DataAccess\\Demo.DataAccess\\Demo.DataAccess.csproj",
+      "projectPath": "C:\\Jeff\\Projects\\Demo\\Demo.DataAccess\\Demo.DataAccess\\Demo.DataAccess.csproj",
       "packagesPath": "C:\\Users\\HeliosAdmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Jeff\\Demo.DataAccess\\Demo.DataAccess\\obj\\",
+      "outputPath": "C:\\Jeff\\Projects\\Demo\\Demo.DataAccess\\Demo.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

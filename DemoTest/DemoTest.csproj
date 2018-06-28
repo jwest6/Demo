@@ -16,8 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Demo.DataAccess\Demo.DataAccess\Demo.DataAccess.csproj" />
     <ProjectReference Include="..\Demo.API\Demo.API.csproj" />
+    <ProjectReference Include="..\Demo.DataAccess\Demo.DataAccess\Demo.DataAccess.csproj" />
   </ItemGroup>
 
 </Project>

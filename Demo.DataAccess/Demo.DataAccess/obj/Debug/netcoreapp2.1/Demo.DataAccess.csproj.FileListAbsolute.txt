@@ -8,3 +8,14 @@ C:\Jeff\Demo.DataAccess\Demo.DataAccess\obj\Debug\netcoreapp2.1\Demo.DataAccess.
 C:\Jeff\Demo.DataAccess\Demo.DataAccess\obj\Debug\netcoreapp2.1\Demo.DataAccess.AssemblyInfo.cs
 C:\Jeff\Demo.DataAccess\Demo.DataAccess\obj\Debug\netcoreapp2.1\Demo.DataAccess.dll
 C:\Jeff\Demo.DataAccess\Demo.DataAccess\obj\Debug\netcoreapp2.1\Demo.DataAccess.pdb
+C:\Jeff\Projects\Demo\Demo.DataAccess\Demo.DataAccess\bin\Debug\netcoreapp2.1\Demo.DataAccess.deps.json
+C:\Jeff\Projects\Demo\Demo.DataAccess\Demo.DataAccess\bin\Debug\netcoreapp2.1\Demo.DataAccess.runtimeconfig.json
+C:\Jeff\Projects\Demo\Demo.DataAccess\Demo.DataAccess\bin\Debug\netcoreapp2.1\Demo.DataAccess.runtimeconfig.dev.json
+C:\Jeff\Projects\Demo\Demo.DataAccess\Demo.DataAccess\bin\Debug\netcoreapp2.1\Demo.DataAccess.dll
+C:\Jeff\Projects\Demo\Demo.DataAccess\Demo.DataAccess\bin\Debug\netcoreapp2.1\Demo.DataAccess.pdb
+C:\Jeff\Projects\Demo\Demo.DataAccess\Demo.DataAccess\obj\Debug\netcoreapp2.1\Demo.DataAccess.csprojAssemblyReference.cache
+C:\Jeff\Projects\Demo\Demo.DataAccess\Demo.DataAccess\obj\Debug\netcoreapp2.1\Demo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Jeff\Projects\Demo\Demo.DataAccess\Demo.DataAccess\obj\Debug\netcoreapp2.1\Demo.DataAccess.AssemblyInfoInputs.cache
+C:\Jeff\Projects\Demo\Demo.DataAccess\Demo.DataAccess\obj\Debug\netcoreapp2.1\Demo.DataAccess.AssemblyInfo.cs
+C:\Jeff\Projects\Demo\Demo.DataAccess\Demo.DataAccess\obj\Debug\netcoreapp2.1\Demo.DataAccess.dll
+C:\Jeff\Projects\Demo\Demo.DataAccess\Demo.DataAccess\obj\Debug\netcoreapp2.1\Demo.DataAccess.pdb
